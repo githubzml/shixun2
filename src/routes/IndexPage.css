@@ -1,0 +1,13 @@
+
+*{
+  padding: 0;
+  margin: 0;
+}
+.list {
+  display: flex;
+  flex-wrap: wrap;
+}
+li{
+  list-style: none;
+  width: 50%;
+}
